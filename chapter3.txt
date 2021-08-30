@@ -1,0 +1,1 @@
+3. After django, I got to know  basics of web dev are very important and now I am in the mern Stack.
